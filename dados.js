@@ -1,21 +1,30 @@
 /*Arquivo onde ficará todos os dados a serem utilizado no código HTML*/
 let atletas = [
-    {
-      titulo: "Rodrigo Goes",
-      descricao: "Rodrigo Goes é um ícone do fisiculturismo brasileiro, conhecido por sua genética excepcional e por ter conquistado o título de Mr. Olympia em 2018.",
-      link: "https://pt.wikipedia.org/wiki/Rodrigo_G%C3%B3es"
-    },
-    {
-      titulo: "Shawn Roden",
-      descricao: "Shawn Rhoden foi o campeão do Mr. Olympia em 2018, demonstrando uma incrível simetria muscular e força.",
-      link: "https://pt.wikipedia.org/wiki/Shawn_Rhoden"
-    },
-    {
-      titulo: "Dennis Wolf",
-      descricao: "Dennis Wolf, o alemão, conquistou diversos títulos importantes no fisiculturismo.",
-      link: "https://pt.wikipedia.org/wiki/Dennis_Wolf"
-    }
-  ];
+  {
+    titulo: "Rodrigo Goes",
+    descricao: "Rodrigo Goes é um ícone do fisiculturismo brasileiro, conhecido por sua genética excepcional e por ter conquistado o título de Mr. Olympia em 2018.",
+    link: "https://pt.wikipedia.org/wiki/Rodrigo_G%C3%B3es",
+    tags: "brasil brasileiro america latina homem masculino"
+  },
+  {
+    titulo: "Shawn Roden",
+    descricao: "Shawn Rhoden foi o campeão do Mr. Olympia em 2018, demonstrando uma incrível simetria muscular e força.",
+    link: "https://pt.wikipedia.org/wiki/Shawn_Rhoden",
+    tags: "americano homem campeão"
+  },
+  {
+    titulo: "Dennis Wolf",
+    descricao: "Dennis Wolf, o alemão, conquistou diversos títulos importantes no fisiculturismo.",
+    link: "https://pt.wikipedia.org/wiki/Dennis_Wolf",
+    tags: "olympia musculos"
+  },
+  {
+    titulo: "Phil Heath",
+    descricao: "Um dos atletas mais famosos da atualidade, com diversos títulos nacionais e internacionais.",
+    link:"https://pt.wikipedia.org/wiki/Phil_Heath",
+    tags: "olympia recente campeão negro"
+  }
+];
 
 
  let sobreEsporte = [
