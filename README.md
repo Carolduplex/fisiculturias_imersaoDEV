@@ -1,4 +1,4 @@
-## Fisiculturistas Dahora: Deixe seu shape nas nuvens! (README.md) 
+## Fisiculturistas Dahora: Deixe seu shape nas nuvens!  - imersão DEV com GoogleGemini 
 
 **E aí, maromba!** Beleza?!  Tá querendo dar aquela turbinada no conhecimento sobre o mundo da fisiculturismo? Então esse site é pra você! 
 
@@ -28,6 +28,6 @@ Esse é o Fisiculturistas Dahora, uma aplicação web feita pra te deixar por de
 
 **Mande brasa!** 
 
-Esse projeto tá sempre em evolução, então se tem críticas, sugestões ou só quer dizer "parabéns", manda um email pra lulu@zinha.com.br. 
+Esse projeto tá sempre em evolução, então se tem críticas, sugestões ou só quer dizer "parabéns", manda um email pra anacarolineox@yahoo.com.br. 
 
 **Treina pesado, se alimenta bem e vem pro Fisiculturistas Dahora!** 
