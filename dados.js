@@ -1,4 +1,5 @@
 /*Arquivo onde ficará todos os dados a serem utilizado no código HTML*/
+
 let atletas = [
   {
     titulo: "Rodrigo Goes",
@@ -16,13 +17,25 @@ let atletas = [
     titulo: "Dennis Wolf",
     descricao: "Dennis Wolf, o alemão, conquistou diversos títulos importantes no fisiculturismo.",
     link: "https://pt.wikipedia.org/wiki/Dennis_Wolf",
-    tags: "olympia musculos"
+    tags: "olympia musculos homem alemanha"
   },
   {
     titulo: "Phil Heath",
     descricao: "Um dos atletas mais famosos da atualidade, com diversos títulos nacionais e internacionais.",
     link:"https://pt.wikipedia.org/wiki/Phil_Heath",
-    tags: "olympia recente campeão negro"
+    tags: "olympia recente campeão negro America EUA"
+  },
+  {
+    titulo: "Arnold Schwarzernegger",
+    descricao: "Talvez o maior expoente do esporte, Swarsernegger é indiscutivelmente uma das figuras públicas mais famosas dentro e fora do fisiculturismo.",
+    link: "https://pt.wikipedia.org/wiki/Arnold_Schwarzenegger",
+    tags: "hollywood ator Áustria político"
+  },
+  {
+    titulo: "Juliana Malacarne",
+    descricao: "Juliana é uma das grandes figuras do fisiculturismo feminino. Seu sucesso, principalmente nas redes sociais, faz com que seu nome seja mundialmente conhecido.",
+    link: "https://en.wikipedia.org/wiki/Juliana_Malacarne",
+    tags: "brasileira brasileiro IFBB mulher feminino"
   }
 ];
 
